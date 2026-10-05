@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-label="The Happyy Cup logo">
+  <rect width="1200" height="600" fill="#120D0B"/>
+
+  <g transform="translate(90 10)">
+    <g fill="none" stroke="#F3E3B8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M200 110C200 58 242 18 293 18C345 18 387 58 387 110V125C387 155 367 182 338 196L338 220H244V196C216 182 196 155 196 125V110H200Z"/>
+      <path d="M260 58C290 72 306 97 315 115"/>
+      <path d="M260 104C289 140 328 155 383 119"/>
+      <path d="M212 118C212 92 234 72 262 72H321C349 72 371 92 371 118"/>
+      <path d="M401 124C454 98 521 111 552 163C585 219 568 284 515 321C465 356 404 356 359 332"/>
+      <path d="M362 330C402 362 456 381 517 380C582 379 647 349 692 300"/>
+      <path d="M538 123C631 92 701 122 741 183C786 256 767 346 686 393"/>
+      <path d="M698 236C732 251 764 276 790 312"/>
+      <path d="M300 334H695"/>
+      <path d="M276 360H719"/>
+      <path d="M254 386H740"/>
+    </g>
+  </g>
+
+  <g>
+    <text x="948" y="170" fill="#F3E3B8" font-size="86" font-family="Georgia, 'Times New Roman', serif" font-weight="700" letter-spacing="10">THE</text>
+    <line x1="230" y1="198" x2="1020" y2="198" stroke="#F3E3B8" stroke-width="6"/>
+
+    <g transform="translate(55 160)">
+      <text x="0" y="200" fill="#F3E3B8" font-size="210" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-style="italic" letter-spacing="-14">Happyy</text>
+      <text x="620" y="200" fill="#F3E3B8" font-size="170" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-style="italic" letter-spacing="-12">Cup</text>
+    </g>
+
+    <line x1="230" y1="438" x2="1020" y2="438" stroke="#F3E3B8" stroke-width="6"/>
+    <text x="600" y="535" text-anchor="middle" fill="#F3E3B8" font-size="66" font-family="Georgia, 'Times New Roman', serif" font-weight="700" letter-spacing="3">A CUP OF HAPPINESS</text>
+  </g>
+</svg>
